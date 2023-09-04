@@ -1,0 +1,61 @@
+.primedeals-list-heading {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 500;
+  margin-top: 48px;
+}
+
+.primedeals-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+}
+
+.register-prime-image {
+  margin-top: 30px;
+}
+
+.primedeals-loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+}
+.product-details-success-view {
+  padding: 40px;
+}
+.product-details-container {
+  display: flex;
+  gap: 20px;
+}
+.product-image {
+  width: 50vw;
+  border-radius: 20px;
+}
+.product {
+  padding: 10px;
+}
+.rating-and-reviews-count {
+  display: flex;
+  gap: 20px;
+}
+.label-value-container {
+  display: flex;
+}
+.quantity-container {
+  display: flex;
+  width: 100px;
+}
+.quantity-controller-button {
+  border: none;
+  background-color: transparent;
+}
+
+.add-to-cart-btn {
+  background-color: #3b82f6;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 7px;
+}
